@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Tests {
+import org.junit.Test;
+
+public class Tests {
+    @Test
+    public void Test1(){
+
+    }
 }
