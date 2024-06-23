@@ -18,5 +18,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="seleniumhq.selenium.java" level="project" />
+    <orderEntry type="library" name="slf4j.nop" level="project" />
   </component>
 </module>
