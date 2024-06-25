@@ -78,7 +78,7 @@ public class Tests extends BaseDriver{
         WebElement verification= driver.findElement(By.linkText("bk02@gmail.com"));
         Assert.assertTrue("You are not log in",verification.getText().contains("bk02@gmail.com"));
 
-        //WaitAndQuit();
+        WaitAndQuit();
     }
 
     @Test
