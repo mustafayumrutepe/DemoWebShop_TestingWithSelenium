@@ -1,11 +1,12 @@
 ### IntelliJ IDEA ###
-.idea
-DemoWebShop_TestingWithSelenium.iml
+
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
 ### Eclipse ###
+.idea
+DemoWebShop_TestingWithSelenium.iml
 .apt_generated
 .classpath
 .factorypath
